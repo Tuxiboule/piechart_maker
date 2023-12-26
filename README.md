@@ -19,8 +19,8 @@ Visual Representation: View an interactive radar chart illustrating the distribu
 NaN
 
 ## Skills
-Python Fundamentals
-Data Visualization with Matplotlib and Pandas
+Pandas Fundamentals
+Data Visualization with Matplotlib
 User Input Handling
 
 ## Credits
