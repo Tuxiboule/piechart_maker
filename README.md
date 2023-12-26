@@ -1,4 +1,4 @@
-# TITLE
+# Piechart Maker
 ![](icon.png)
 
 ## About
