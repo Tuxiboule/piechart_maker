@@ -2,21 +2,21 @@
 ![](icon.png)
 
 ## About
-This project utilizes Python fundamentals for market analysis, specifically focusing on creating a radar chart to represent different components or shares of a market.
+This Python project creates an interactive radar chart based on user input. Users can define different components or shares, providing names and values to visualize their distribution.
 
 ## Features
-Dynamic Input: Allows the user to input the number of market shares and their respective values.
-Interactive Radar Chart: Generates an interactive radar chart based on the user's input, showcasing the distribution of values among different shares.
+Dynamic Input: Allows the user to input the number of components and their respective values.
+Interactive Radar Chart: Generates a radar chart based on user input, showcasing the distribution of values among different components.
 
 
 ## Usage
-Number of Parts: Enter the number of market shares.
-Input Values: Provide names and values for each market share.
-Visual Representation: View an interactive radar chart illustrating the distribution of values among different market shares.
+Number of Components: Enter the number of components.
+Input Values: Provide names and values for each component.
+Visual Representation: View an interactive radar chart illustrating the distribution of values among different components.
 
 
-## Context - Use Python fundamentals for market analysis
-This project serves as a practical application of Python fundamentals for market analysis. By creating a radar chart, it enables users to visually assess and analyze the distribution of values among various market shares.
+## Context - 
+NaN
 
 ## Skills
 Python Fundamentals
